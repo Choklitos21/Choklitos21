@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Diego, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>
+## <div align="center">I'm Diego, a full-stack developer and Geek 🕹️💻</div>
 
 
 - 🌱 I’m currently learning Frontend and backend with Angular, NestJS and PostgreSQL
